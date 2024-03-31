@@ -18,6 +18,8 @@
 // console.log(car3);
 //=========================================================================================================================================================================
 
+
+
 /*2. Car classini kengaytirib, ElectricCar classini yarating. ElectricCar classi Car classining barcha xususiyatlariga ega bo'lishi kerak va qo'shimcha ravishda batteryLife xususiyatini ham o'z ichiga olishi kerak.*/
 
 // class Car{
@@ -40,6 +42,8 @@
 // console.log(electricCar1);
 // console.log(electricCar2);
 //=======================================================================================================================================================================
+
+
 
 /*3. Metodlar: Car classiga displayInfo deb nomlangan metod qo'shing, bu metod avtomobilning markasi va ishlab chiqarilgan yilini konsolga chiqaradi. Keyin ushbu metodni ElectricCar classidagi obyekt uchun ham sinab ko'ring.*/
 
